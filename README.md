@@ -3,6 +3,7 @@
 I'm [**Stevie**](https://www.linkedin.com/in/steviepreston/), a AI-based software engineer from Belfast, Northern Ireland.
 
 I'm primarily interested in **Artifcal Intelligence** and **SRE**.
+
 I'm currently work as a software engineer at the [**@BT Group**](https://www.bt.com/about).
 
 I'm fascinated by utilzing generative AI to help others teams solve route issues quicker and automate resoultions, via producing automation frameworks to help maintain SLO's.
