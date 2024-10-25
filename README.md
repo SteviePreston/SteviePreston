@@ -7,6 +7,9 @@ My aim is to develop automation frameworks that streamline deployment processes 
 
 When I’m not coding, I enjoy keeping up with the latest advancements in AI, exploring the world of hacking, and delving into the domains of hardware and firmware.
 
+Currently Learning:
+
+
 [<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>](https://angular.dev/)
 [<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>](https://go.dev/)
 [<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-007ACC?style=for-the-badge&logo=kubernetes&logoColor=white"/>](https://kubernetes.io/)
