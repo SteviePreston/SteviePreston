@@ -1,7 +1,7 @@
 # Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 ## 🚀 About Me:
-🔭 I’m currently working on RaspberryPi5 K3-Docker Cluster.<br> 
+🔭 I’m currently working on Raspberry Pi K3-Docker Cluster.<br> 
 🗠 My goal is to develop automation frameworks that ensure we meet SLOs through effective observability and metrics.<br>
 💬 Ask me about Artificial Intelligence, Site Reliability Engineering (SRE), Hardware and Linux.<br>
 ⚡ Fun fact, When I’m not coding, I enjoy learning how things work, and delving into the domains of hardware and firmware.<br>
